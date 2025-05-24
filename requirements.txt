@@ -1,5 +1,7 @@
-plotly
-scikit-learn
+streamlit
+pandas
+numpy
 tensorflow
-keras
-matplotlib
+joblib
+plotly
+requests
